@@ -7,6 +7,7 @@ const App = () => {
   return (
     <div>
       <Navbar />
+      Testing Git connection
       <Routes />
     </div>
   )
